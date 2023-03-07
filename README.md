@@ -9,3 +9,5 @@ miscellaneous random projects for when im bored with leetcode
 - TicTacToe No Gui 
   - made this since working with static global arrays was interesting  
   
+- Ascii Text to Art Generator
+  - Id like to add a random picture generator 
