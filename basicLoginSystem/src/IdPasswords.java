@@ -30,12 +30,5 @@ public class IdPasswords {
         }
     }
 
-    public static void main(String[] args) {
-        // testing the hash function
-//        String whatever = sha256("hi");
-//        String whatever2 = sha256("hi");
-//        System.out.println(whatever);
-//        System.out.println(whatever2);
-    }
 
 }
